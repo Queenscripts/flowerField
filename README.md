@@ -1,6 +1,4 @@
 <h1> flowerField </h1>
-One Paragraph of project description goes here
-
 <h2>Getting Started </h2>
 <p>Go ahead and download the files that are a part of this project. Included are the original Photoshop files, the png photo files, the HTML, and the Javascript file that gives the game its magic. Enjoy.</p>
 
